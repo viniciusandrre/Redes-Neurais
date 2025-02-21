@@ -43,11 +43,9 @@ E abra o arquivo `Cópia_de_slides_13_redes_neurais_p3_pratica_1.ipynb`.
 
 # Reconhecimentos e Direitos Autorais
 
-**@autor:** [Emanuelle    , Lucyene Pinheiro Neves, Vinícius André Almeida Pereira    ]  
-**@contato:** [Seus Emails - se quiserem]  
+**@autor:** [Emanuelle da Silva Launé  , Lucyene Pinheiro Neves, Vinícius André Almeida Pereira    ]  
 **@data última versão:** [21 de Fevereiro de 2025]  
 **@versão:** 1.0  
-**@outros repositórios:** [URLs - apontem para os seus Gits, se quiserem]  
 
 ## Agradecimentos  
 Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
