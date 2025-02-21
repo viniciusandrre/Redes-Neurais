@@ -41,10 +41,6 @@ jupyter notebook
 ```
 E abra o arquivo `Cópia_de_slides_13_redes_neurais_p3_pratica_1.ipynb`.
 
-## Contribuição
-
-## Autores
-
 # Reconhecimentos e Direitos Autorais
 
 **@autor:** [Emanuelle    , Lucyene Pinheiro Neves, Vinícius    ]  
